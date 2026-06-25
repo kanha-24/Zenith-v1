@@ -1,0 +1,590 @@
+[2026-04-20 09:37:56] [LOAD] Command modules
+[2026-04-20 09:37:56] [OK  ] Command modules loaded (27 commands)
+[2026-04-20 09:37:56] [LOAD] Prefix command modules
+[2026-04-20 09:37:56] [OK  ] Prefix command modules loaded (182 commands)
+[2026-04-20 09:37:56] [LOAD] Hybrid command modules
+[2026-04-20 09:37:57] [OK  ] Hybrid command modules loaded (33 commands)
+[2026-04-20 09:37:57] [LOAD] Event handlers
+[2026-04-20 09:37:57] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-04-20 09:37:57] [LOAD] Database connection
+[2026-04-20 09:37:57] [LOAD] Discord authentication
+[2026-04-20 09:37:59] [OK  ] Database initialized and all tables synced
+[2026-04-20 09:37:59] [ERR ] Startup failed: An invalid token was provided.
+[2026-04-20 09:39:00] [LOAD] Command modules
+[2026-04-20 09:39:00] [OK  ] Command modules loaded (27 commands)
+[2026-04-20 09:39:00] [LOAD] Prefix command modules
+[2026-04-20 09:39:00] [OK  ] Prefix command modules loaded (182 commands)
+[2026-04-20 09:39:00] [LOAD] Hybrid command modules
+[2026-04-20 09:39:00] [OK  ] Hybrid command modules loaded (33 commands)
+[2026-04-20 09:39:00] [LOAD] Event handlers
+[2026-04-20 09:39:00] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-04-20 09:39:00] [LOAD] Database connection
+[2026-04-20 09:39:00] [LOAD] Discord authentication
+[2026-04-20 09:39:01] [OK  ] Database initialized and all tables synced
+[2026-04-20 09:39:01] [ERR ] Startup failed: An invalid token was provided.
+[2026-06-20 08:52:33] [ERR ] Missing required environment variables: DATABASE_URL, BOT_TOKEN, CLIENT_ID, OWNER_ID
+[2026-06-20 08:52:33] [INFO] Create a .env file from .env.example before starting ZENITH.
+[2026-06-20 08:53:14] [LOAD] Command modules
+[2026-06-20 08:53:22] [OK  ] Command modules loaded (26 commands)
+[2026-06-20 08:53:22] [LOAD] Prefix command modules
+[2026-06-20 08:53:22] [OK  ] Prefix command modules loaded (177 commands)
+[2026-06-20 08:53:22] [LOAD] Hybrid command modules
+[2026-06-20 08:53:22] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-20 08:53:22] [LOAD] Event handlers
+[2026-06-20 08:53:22] [OK  ] Event handlers ready - 12 events - logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-20 08:53:22] [LOAD] Database connection
+[2026-06-20 08:53:22] [LOAD] Discord authentication
+[2026-06-20 08:53:22] [ERR ] Database initialization failed: 
+[2026-06-20 08:53:22] [ERR ] Startup failed: 
+[2026-06-20 08:53:53] [LOAD] Command modules
+[2026-06-20 08:53:54] [OK  ] Command modules loaded (26 commands)
+[2026-06-20 08:53:54] [LOAD] Prefix command modules
+[2026-06-20 08:53:54] [OK  ] Prefix command modules loaded (177 commands)
+[2026-06-20 08:53:54] [LOAD] Hybrid command modules
+[2026-06-20 08:53:54] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-20 08:53:54] [LOAD] Event handlers
+[2026-06-20 08:53:54] [OK  ] Event handlers ready - 12 events - logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-20 08:53:54] [LOAD] Database connection
+[2026-06-20 08:53:54] [LOAD] Discord authentication
+[2026-06-20 08:53:54] [ERR ] Database initialization failed: ECONNREFUSED
+[2026-06-20 08:53:54] [ERR ] Startup failed: ECONNREFUSED
+[2026-06-20 08:55:05] [LOAD] Command modules
+[2026-06-20 08:55:06] [OK  ] Command modules loaded (26 commands)
+[2026-06-20 08:55:06] [LOAD] Prefix command modules
+[2026-06-20 08:55:06] [OK  ] Prefix command modules loaded (177 commands)
+[2026-06-20 08:55:06] [LOAD] Hybrid command modules
+[2026-06-20 08:55:06] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-20 08:55:06] [LOAD] Event handlers
+[2026-06-20 08:55:06] [OK  ] Event handlers ready - 12 events - logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-20 08:55:06] [LOAD] Database connection
+[2026-06-20 08:55:06] [LOAD] Discord authentication
+[2026-06-20 08:55:06] [ERR ] Database initialization failed: ECONNREFUSED
+[2026-06-20 08:55:06] [ERR ] Startup failed: ECONNREFUSED
+[2026-06-20 09:00:16] [LOAD] Command modules
+[2026-06-20 09:00:17] [OK  ] Command modules loaded (26 commands)
+[2026-06-20 09:00:17] [LOAD] Prefix command modules
+[2026-06-20 09:00:17] [OK  ] Prefix command modules loaded (177 commands)
+[2026-06-20 09:00:17] [LOAD] Hybrid command modules
+[2026-06-20 09:00:17] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-20 09:00:17] [LOAD] Event handlers
+[2026-06-20 09:00:17] [OK  ] Event handlers ready - 12 events - logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-20 09:00:17] [LOAD] Database connection
+[2026-06-20 09:00:17] [LOAD] Discord authentication
+[2026-06-20 09:00:18] [OK  ] Database initialized and all tables synced
+[2026-06-20 09:00:20] [OK  ] Authentication successful -> [38;2;170;115;210mZENITH#5876[0m
+[2026-06-20 09:00:20] [LOAD] Synchronizing slash commands
+[2026-06-20 09:00:21] [OK  ] Command synchronization complete (58 commands)
+[2026-06-20 09:00:21] [INFO] Connected to 0 guilds
+[2026-06-20 09:02:22] [LOAD] Command modules
+[2026-06-20 09:02:23] [OK  ] Command modules loaded (26 commands)
+[2026-06-20 09:02:23] [LOAD] Prefix command modules
+[2026-06-20 09:02:23] [OK  ] Prefix command modules loaded (177 commands)
+[2026-06-20 09:02:23] [LOAD] Hybrid command modules
+[2026-06-20 09:02:23] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-20 09:02:23] [LOAD] Event handlers
+[2026-06-20 09:02:23] [OK  ] Event handlers ready - 12 events - logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-20 09:02:23] [LOAD] Database connection
+[2026-06-20 09:02:23] [LOAD] Discord authentication
+[2026-06-20 09:02:24] [OK  ] Database initialized and all tables synced
+[2026-06-20 09:02:25] [OK  ] Authentication successful -> [38;2;170;115;210mZENITH#5876[0m
+[2026-06-20 09:02:25] [LOAD] Synchronizing slash commands
+[2026-06-20 09:02:25] [INFO] Slash commands unchanged - skipping registration
+[2026-06-20 09:02:25] [OK  ] Command synchronization complete (58 commands)
+[2026-06-20 09:02:25] [INFO] Connected to 0 guilds
+[2026-06-20 09:04:39] [ERR ] Uncaught exception: EPIPE: broken pipe, write
+[2026-06-20 09:07:06] [LOAD] Command modules
+[2026-06-20 09:07:06] [OK  ] Command modules loaded (26 commands)
+[2026-06-20 09:07:06] [LOAD] Prefix command modules
+[2026-06-20 09:07:07] [OK  ] Prefix command modules loaded (177 commands)
+[2026-06-20 09:07:07] [LOAD] Hybrid command modules
+[2026-06-20 09:07:07] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-20 09:07:07] [LOAD] Event handlers
+[2026-06-20 09:07:07] [OK  ] Event handlers ready - 12 events - logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-20 09:07:07] [LOAD] Database connection
+[2026-06-20 09:07:07] [LOAD] Discord authentication
+[2026-06-20 09:07:07] [OK  ] Database initialized and all tables synced
+[2026-06-20 09:07:09] [OK  ] Authentication successful -> [38;2;170;115;210mZENITH#5876[0m
+[2026-06-20 09:07:09] [LOAD] Synchronizing slash commands
+[2026-06-20 09:07:09] [INFO] Slash commands unchanged - skipping registration
+[2026-06-20 09:07:09] [OK  ] Command synchronization complete (58 commands)
+[2026-06-20 09:07:09] [INFO] Connected to 1 guilds
+[2026-06-20 09:22:45] [LOAD] Command modules
+[2026-06-20 09:22:46] [OK  ] Command modules loaded (26 commands)
+[2026-06-20 09:22:46] [LOAD] Prefix command modules
+[2026-06-20 09:22:46] [OK  ] Prefix command modules loaded (177 commands)
+[2026-06-20 09:22:46] [LOAD] Hybrid command modules
+[2026-06-20 09:22:46] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-20 09:22:46] [LOAD] Event handlers
+[2026-06-20 09:22:46] [OK  ] Event handlers ready - 12 events - logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-20 09:22:46] [LOAD] Database connection
+[2026-06-20 09:22:46] [LOAD] Discord authentication
+[2026-06-20 09:22:47] [OK  ] Database initialized and all tables synced
+[2026-06-20 09:22:49] [OK  ] Authentication successful -> [38;2;170;115;210mZENITH#5876[0m
+[2026-06-20 09:22:49] [LOAD] Synchronizing slash commands
+[2026-06-20 09:22:50] [OK  ] Command synchronization complete (58 commands)
+[2026-06-20 09:22:50] [INFO] Connected to 1 guilds
+[2026-06-20 09:25:40] [LOAD] Command modules
+[2026-06-20 09:25:41] [OK  ] Command modules loaded (26 commands)
+[2026-06-20 09:25:41] [LOAD] Prefix command modules
+[2026-06-20 09:25:41] [OK  ] Prefix command modules loaded (177 commands)
+[2026-06-20 09:25:41] [LOAD] Hybrid command modules
+[2026-06-20 09:25:41] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-20 09:25:41] [LOAD] Event handlers
+[2026-06-20 09:25:41] [OK  ] Event handlers ready - 12 events - logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-20 09:25:42] [LOAD] Database connection
+[2026-06-20 09:25:42] [LOAD] Discord authentication
+[2026-06-20 09:25:42] [OK  ] Database initialized and all tables synced
+[2026-06-20 09:25:44] [OK  ] Authentication successful -> [38;2;170;115;210mZENITH#5876[0m
+[2026-06-20 09:25:44] [LOAD] Synchronizing slash commands
+[2026-06-20 09:25:44] [INFO] Slash commands unchanged - skipping registration
+[2026-06-20 09:25:44] [OK  ] Command synchronization complete (58 commands)
+[2026-06-20 09:25:44] [INFO] Connected to 1 guilds
+[2026-06-25 09:38:44] [LOAD] Command modules
+[2026-06-25 09:38:48] [OK  ] Command modules loaded (24 commands)
+[2026-06-25 09:38:48] [WARN] Failed to load 2 command files
+[2026-06-25 09:38:48] [ERR ] Misc/afk.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:38:48] [ERR ] information/ping.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:38:48] [LOAD] Prefix command modules
+[2026-06-25 09:38:49] [OK  ] Prefix command modules loaded (173 commands)
+[2026-06-25 09:38:49] [WARN] Failed to load 4 prefix command files
+[2026-06-25 09:38:49] [ERR ] Misc/afk.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:38:49] [ERR ] information/avgping.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:38:49] [ERR ] information/ping.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:38:49] [ERR ] owner/noprefix.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:38:49] [LOAD] Hybrid command modules
+[2026-06-25 09:38:50] [OK  ] Hybrid command modules loaded (29 commands)
+[2026-06-25 09:38:50] [WARN] Failed to load 3 hybrid command files
+[2026-06-25 09:38:50] [ERR ] profile/profile.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:38:50] [ERR ] purge/purge.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:38:50] [ERR ] setprefix/setprefix.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:38:50] [LOAD] Event handlers
+[2026-06-25 09:39:13] [LOAD] Command modules
+[2026-06-25 09:39:17] [OK  ] Command modules loaded (24 commands)
+[2026-06-25 09:39:17] [WARN] Failed to load 2 command files
+[2026-06-25 09:39:17] [ERR ] Misc/afk.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:39:17] [ERR ] information/ping.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:39:17] [LOAD] Prefix command modules
+[2026-06-25 09:39:18] [OK  ] Prefix command modules loaded (173 commands)
+[2026-06-25 09:39:18] [WARN] Failed to load 4 prefix command files
+[2026-06-25 09:39:18] [ERR ] Misc/afk.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:39:18] [ERR ] information/avgping.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:39:18] [ERR ] information/ping.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:39:18] [ERR ] owner/noprefix.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:39:18] [LOAD] Hybrid command modules
+[2026-06-25 09:39:19] [OK  ] Hybrid command modules loaded (29 commands)
+[2026-06-25 09:39:19] [WARN] Failed to load 3 hybrid command files
+[2026-06-25 09:39:19] [ERR ] profile/profile.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:39:19] [ERR ] purge/purge.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:39:19] [ERR ] setprefix/setprefix.js: The dialect mongodb+srv is not supported. Supported dialects: mssql, mariadb, mysql, oracle, postgres, db2 and sqlite.
+[2026-06-25 09:39:19] [LOAD] Event handlers
+[2026-06-25 09:46:32] [LOAD] Command modules
+[2026-06-25 09:46:37] [OK  ] Command modules loaded (26 commands)
+[2026-06-25 09:46:37] [LOAD] Prefix command modules
+[2026-06-25 09:46:38] [OK  ] Prefix command modules loaded (177 commands)
+[2026-06-25 09:46:38] [LOAD] Hybrid command modules
+[2026-06-25 09:46:39] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-25 09:46:39] [LOAD] Event handlers
+[2026-06-25 09:46:39] [OK  ] Event handlers ready - 12 events - logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-25 09:46:39] [LOAD] Database connection
+[2026-06-25 09:46:39] [LOAD] Discord authentication
+[2026-06-25 09:46:47] [OK  ] Database initialized and all tables synced
+[2026-06-25 09:46:49] [OK  ] Authentication successful -> [38;2;170;115;210mNuvix#7856[0m
+[2026-06-25 09:46:49] [LOAD] Synchronizing slash commands
+[2026-06-25 09:46:50] [OK  ] Command synchronization complete (58 commands)
+[2026-06-25 09:46:50] [INFO] Connected to 6 guilds
+[2026-06-25 10:59:25] [LOAD] Command modules
+[2026-06-25 10:59:30] [OK  ] Command modules loaded (10 commands)
+[2026-06-25 10:59:30] [WARN] Failed to load 16 command files
+[2026-06-25 10:59:30] [ERR ] Misc/afk.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:30] [ERR ] Misc/misc.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:30] [ERR ] animals/animals.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:30] [ERR ] conversion/conversion.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:30] [ERR ] crypto.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:30] [ERR ] fun/fun.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:30] [ERR ] general/general.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:30] [ERR ] information/invite.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:30] [ERR ] information/serverinfo.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:30] [ERR ] information/userinfo.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:30] [ERR ] information/users.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:30] [ERR ] list/list.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:30] [ERR ] news.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:30] [ERR ] serverprofile/server.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:30] [ERR ] stats/stats.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:30] [ERR ] wikipedia.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:30] [LOAD] Prefix command modules
+[2026-06-25 10:59:32] [OK  ] Prefix command modules loaded (114 commands)
+[2026-06-25 10:59:32] [WARN] Failed to load 63 prefix command files
+[2026-06-25 10:59:32] [ERR ] Misc/afk.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] animals/animalfact.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] animals/bear.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] animals/bird.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] animals/bunny.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] animals/cat.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] animals/dog.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] animals/duck.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] animals/fox.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] animals/panda.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] animals/pig.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] animals/possum.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] animals/redpanda.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] animals/sheep.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] animals/snake.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] animals/squirrel.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] conversion/ascii85.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] conversion/base32.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] conversion/binint.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] conversion/binstr.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] conversion/cm.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] conversion/dechex.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] conversion/encode.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] conversion/ft.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] conversion/hex.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] conversion/hexdec.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] conversion/intbin.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] conversion/kg.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] conversion/rot13.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] conversion/strbin.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] crypto.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] fun/howgay.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] general/editsnipe.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] general/list.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] general/snipe.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] image.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] information/serverinfo.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] information/uptime.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] information/userinfo.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] news.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] owner/errorlog.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] owner/eval.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] owner/listservers.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] roleplay/deathstare.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] roleplay/hug.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] roleplay/kill.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] roleplay/kiss.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] roleplay/lick.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] roleplay/pat.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] roleplay/poke.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] roleplay/slap.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] roleplay/tickle.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] serverprofile/serveravatar.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] serverprofile/serverbanner.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] serverprofile/serverbio.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] serverprofile/servername.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] serverprofile/serverresetprofile.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] stats/emojistats.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] stats/emptyroles.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] stats/firstjoins.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] stats/lastjoins.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] stats/listchannels.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] wikipedia.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [LOAD] Hybrid command modules
+[2026-06-25 10:59:32] [OK  ] Hybrid command modules loaded (26 commands)
+[2026-06-25 10:59:32] [WARN] Failed to load 6 hybrid command files
+[2026-06-25 10:59:32] [ERR ] google/google.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] help/help.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] nick/nick.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] pinterest/pinterest.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] profile/profile.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [ERR ] youtube/youtube.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 10:59:32] [LOAD] Event handlers
+[2026-06-25 11:01:25] [LOAD] Command modules
+[2026-06-25 11:01:31] [OK  ] Command modules loaded (10 commands)
+[2026-06-25 11:01:31] [WARN] Failed to load 16 command files
+[2026-06-25 11:01:31] [ERR ] Misc/afk.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:31] [ERR ] Misc/misc.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:31] [ERR ] animals/animals.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:31] [ERR ] conversion/conversion.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:31] [ERR ] crypto.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:31] [ERR ] fun/fun.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:31] [ERR ] general/general.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:31] [ERR ] information/invite.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:31] [ERR ] information/serverinfo.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:31] [ERR ] information/userinfo.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:31] [ERR ] information/users.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:31] [ERR ] list/list.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:31] [ERR ] news.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:31] [ERR ] serverprofile/server.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:31] [ERR ] stats/stats.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:31] [ERR ] wikipedia.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:31] [LOAD] Prefix command modules
+[2026-06-25 11:01:33] [OK  ] Prefix command modules loaded (114 commands)
+[2026-06-25 11:01:33] [WARN] Failed to load 63 prefix command files
+[2026-06-25 11:01:33] [ERR ] Misc/afk.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] animals/animalfact.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] animals/bear.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] animals/bird.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] animals/bunny.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] animals/cat.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] animals/dog.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] animals/duck.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] animals/fox.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] animals/panda.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] animals/pig.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] animals/possum.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] animals/redpanda.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] animals/sheep.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] animals/snake.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] animals/squirrel.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] conversion/ascii85.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] conversion/base32.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] conversion/binint.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] conversion/binstr.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] conversion/cm.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] conversion/dechex.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] conversion/encode.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] conversion/ft.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] conversion/hex.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] conversion/hexdec.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] conversion/intbin.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] conversion/kg.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] conversion/rot13.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] conversion/strbin.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] crypto.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] fun/howgay.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] general/editsnipe.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] general/list.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] general/snipe.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] image.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] information/serverinfo.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] information/uptime.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] information/userinfo.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] news.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] owner/errorlog.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] owner/eval.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] owner/listservers.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] roleplay/deathstare.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] roleplay/hug.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] roleplay/kill.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] roleplay/kiss.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] roleplay/lick.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] roleplay/pat.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] roleplay/poke.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] roleplay/slap.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] roleplay/tickle.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] serverprofile/serveravatar.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] serverprofile/serverbanner.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] serverprofile/serverbio.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] serverprofile/servername.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] serverprofile/serverresetprofile.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] stats/emojistats.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] stats/emptyroles.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] stats/firstjoins.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] stats/lastjoins.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] stats/listchannels.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] wikipedia.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [LOAD] Hybrid command modules
+[2026-06-25 11:01:33] [OK  ] Hybrid command modules loaded (26 commands)
+[2026-06-25 11:01:33] [WARN] Failed to load 6 hybrid command files
+[2026-06-25 11:01:33] [ERR ] google/google.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] help/help.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] nick/nick.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] pinterest/pinterest.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] profile/profile.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [ERR ] youtube/youtube.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:01:33] [LOAD] Event handlers
+[2026-06-25 11:02:09] [LOAD] Command modules
+[2026-06-25 11:02:14] [OK  ] Command modules loaded (10 commands)
+[2026-06-25 11:02:14] [WARN] Failed to load 16 command files
+[2026-06-25 11:02:14] [ERR ] Misc/afk.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:14] [ERR ] Misc/misc.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:14] [ERR ] animals/animals.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:14] [ERR ] conversion/conversion.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:14] [ERR ] crypto.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:14] [ERR ] fun/fun.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:14] [ERR ] general/general.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:14] [ERR ] information/invite.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:14] [ERR ] information/serverinfo.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:14] [ERR ] information/userinfo.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:14] [ERR ] information/users.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:14] [ERR ] list/list.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:14] [ERR ] news.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:14] [ERR ] serverprofile/server.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:14] [ERR ] stats/stats.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:14] [ERR ] wikipedia.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:14] [LOAD] Prefix command modules
+[2026-06-25 11:02:16] [OK  ] Prefix command modules loaded (114 commands)
+[2026-06-25 11:02:16] [WARN] Failed to load 63 prefix command files
+[2026-06-25 11:02:16] [ERR ] Misc/afk.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] animals/animalfact.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] animals/bear.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] animals/bird.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] animals/bunny.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] animals/cat.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] animals/dog.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] animals/duck.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] animals/fox.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] animals/panda.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] animals/pig.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] animals/possum.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] animals/redpanda.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] animals/sheep.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] animals/snake.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] animals/squirrel.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] conversion/ascii85.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] conversion/base32.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] conversion/binint.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] conversion/binstr.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] conversion/cm.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] conversion/dechex.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] conversion/encode.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] conversion/ft.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] conversion/hex.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] conversion/hexdec.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] conversion/intbin.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] conversion/kg.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] conversion/rot13.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] conversion/strbin.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] crypto.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] fun/howgay.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] general/editsnipe.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] general/list.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] general/snipe.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] image.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] information/serverinfo.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] information/uptime.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] information/userinfo.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] news.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] owner/errorlog.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] owner/eval.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] owner/listservers.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] roleplay/deathstare.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] roleplay/hug.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] roleplay/kill.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] roleplay/kiss.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] roleplay/lick.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] roleplay/pat.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] roleplay/poke.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] roleplay/slap.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] roleplay/tickle.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] serverprofile/serveravatar.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] serverprofile/serverbanner.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] serverprofile/serverbio.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] serverprofile/servername.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] serverprofile/serverresetprofile.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] stats/emojistats.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] stats/emptyroles.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] stats/firstjoins.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] stats/lastjoins.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] stats/listchannels.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] wikipedia.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [LOAD] Hybrid command modules
+[2026-06-25 11:02:16] [OK  ] Hybrid command modules loaded (26 commands)
+[2026-06-25 11:02:16] [WARN] Failed to load 6 hybrid command files
+[2026-06-25 11:02:16] [ERR ] google/google.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] help/help.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] nick/nick.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] pinterest/pinterest.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] profile/profile.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [ERR ] youtube/youtube.js: /home/container/ZENITH/emojis.json: Expected ',' or '}' after property value in JSON at position 2473 (line 85 column 3)
+[2026-06-25 11:02:16] [LOAD] Event handlers
+[2026-06-25 11:04:33] [LOAD] Command modules
+[2026-06-25 11:04:38] [OK  ] Command modules loaded (10 commands)
+[2026-06-25 11:04:38] [WARN] Failed to load 16 command files
+[2026-06-25 11:04:38] [ERR ] Misc/afk.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:38] [ERR ] Misc/misc.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:38] [ERR ] animals/animals.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:38] [ERR ] conversion/conversion.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:38] [ERR ] crypto.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:38] [ERR ] fun/fun.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:38] [ERR ] general/general.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:38] [ERR ] information/invite.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:38] [ERR ] information/serverinfo.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:38] [ERR ] information/userinfo.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:38] [ERR ] information/users.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:38] [ERR ] list/list.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:38] [ERR ] news.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:38] [ERR ] serverprofile/server.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:38] [ERR ] stats/stats.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:38] [ERR ] wikipedia.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:38] [LOAD] Prefix command modules
+[2026-06-25 11:04:39] [OK  ] Prefix command modules loaded (114 commands)
+[2026-06-25 11:04:39] [WARN] Failed to load 63 prefix command files
+[2026-06-25 11:04:39] [ERR ] Misc/afk.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] animals/animalfact.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] animals/bear.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] animals/bird.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] animals/bunny.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] animals/cat.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] animals/dog.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] animals/duck.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] animals/fox.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] animals/panda.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] animals/pig.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] animals/possum.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] animals/redpanda.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] animals/sheep.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] animals/snake.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] animals/squirrel.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] conversion/ascii85.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] conversion/base32.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] conversion/binint.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] conversion/binstr.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] conversion/cm.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] conversion/dechex.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] conversion/encode.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:39] [ERR ] conversion/ft.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] conversion/hex.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] conversion/hexdec.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] conversion/intbin.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] conversion/kg.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] conversion/rot13.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] conversion/strbin.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] crypto.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] fun/howgay.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] general/editsnipe.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] general/list.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] general/snipe.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] image.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] information/serverinfo.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] information/uptime.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] information/userinfo.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] news.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] owner/errorlog.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] owner/eval.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] owner/listservers.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] roleplay/deathstare.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] roleplay/hug.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] roleplay/kill.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] roleplay/kiss.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] roleplay/lick.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] roleplay/pat.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] roleplay/poke.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] roleplay/slap.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] roleplay/tickle.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] serverprofile/serveravatar.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] serverprofile/serverbanner.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] serverprofile/serverbio.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] serverprofile/servername.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] serverprofile/serverresetprofile.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] stats/emojistats.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] stats/emptyroles.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] stats/firstjoins.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] stats/lastjoins.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] stats/listchannels.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] wikipedia.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [LOAD] Hybrid command modules
+[2026-06-25 11:04:40] [OK  ] Hybrid command modules loaded (26 commands)
+[2026-06-25 11:04:40] [WARN] Failed to load 6 hybrid command files
+[2026-06-25 11:04:40] [ERR ] google/google.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] help/help.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] nick/nick.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] pinterest/pinterest.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] profile/profile.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [ERR ] youtube/youtube.js: /home/container/ZENITH/emojis.json: Expected double-quoted property name in JSON at position 6291 (line 195 column 1)
+[2026-06-25 11:04:40] [LOAD] Event handlers
+[2026-06-25 11:09:39] [LOAD] Command modules
+[2026-06-25 11:09:45] [OK  ] Command modules loaded (26 commands)
+[2026-06-25 11:09:45] [LOAD] Prefix command modules
+[2026-06-25 11:09:46] [OK  ] Prefix command modules loaded (177 commands)
+[2026-06-25 11:09:46] [LOAD] Hybrid command modules
+[2026-06-25 11:09:47] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-25 11:09:47] [LOAD] Event handlers
+[2026-06-25 11:09:48] [OK  ] Event handlers ready - 12 events - logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-25 11:09:48] [LOAD] Database connection
+[2026-06-25 11:09:48] [LOAD] Discord authentication
+[2026-06-25 11:09:57] [OK  ] Database initialized and all tables synced
+[2026-06-25 11:09:59] [OK  ] Authentication successful -> [38;2;170;115;210mNuvix#7856[0m
+[2026-06-25 11:09:59] [LOAD] Synchronizing slash commands
+[2026-06-25 11:09:59] [INFO] Slash commands unchanged - skipping registration
+[2026-06-25 11:09:59] [OK  ] Command synchronization complete (58 commands)
+[2026-06-25 11:09:59] [INFO] Connected to 7 guilds

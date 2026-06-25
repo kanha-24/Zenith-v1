@@ -1,0 +1,36 @@
+============================================================
+ROLES
+Generated: 6/25/2026, 2:22:32 PM
+============================================================
+
+Total Roles: 3
+
+[Role: Omnix]
+  ID: 1513103069980917763
+  Position: 2
+  Color: #000000
+  Members: 1
+  Mentionable: No
+  Hoisted: No
+  Managed: Yes
+  Permissions: Administrator
+------------------------------------------------------------
+[Role: Unbypassable Security [Z+]]
+  ID: 1513116467535544441
+  Position: 1
+  Color: #2b2d31
+  Members: 1
+  Mentionable: No
+  Hoisted: No
+  Managed: No
+  Permissions: Administrator
+------------------------------------------------------------
+[Role: @everyone]
+  ID: 1513076233515176036
+  Position: 0
+  Color: #000000
+  Members: 2
+  Mentionable: No
+  Hoisted: No
+  Managed: No
+  Permissions: CreateInstantInvite, AddReactions, Stream, ViewChannel, SendMessages, EmbedLinks, AttachFiles, ReadMessageHistory, MentionEveryone, UseExternalEmojis, Connect, Speak, UseVAD, ChangeNickname, UseApplicationCommands, RequestToSpeak, CreatePublicThreads, CreatePrivateThreads, UseExternalStickers, SendMessagesInThreads, UseEmbeddedActivities, UseSoundboard, CreateGuildExpressions, CreateEvents, UseExternalSounds, SendVoiceMessages, SetVoiceChannelStatus, SendPolls, UseExternalApps

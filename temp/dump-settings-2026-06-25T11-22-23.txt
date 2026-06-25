@@ -1,0 +1,23 @@
+============================================================
+SETTINGS
+Generated: 6/25/2026, 2:22:23 PM
+============================================================
+
+Server Name: New emoji bot 2
+Server ID: 1513076233515176036
+Owner: 1479490387755143240
+Created: 6/7/2026, 10:04:45 AM
+Member Count: 2
+Boost Level: 0
+Boost Count: 0
+Verification Level: 0
+Explicit Content Filter: 0
+Default Notifications: 0
+MFA Level: 0
+AFK Channel: None
+AFK Timeout: 300 seconds
+System Channel: general
+Rules Channel: None
+Description: None
+Preferred Locale: en-US
+Features: None
