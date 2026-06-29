@@ -2,7 +2,6 @@
 
 
 const { Client, GatewayIntentBits, Partials, Collection, REST, Routes, ActivityType } = require('discord.js');
-const Dokdo = require('dokdo');
 const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
@@ -58,13 +57,6 @@ client.commands = new Collection();
 client.prefixCommands = new Collection();
 
 if (!process.env.SHELL) process.env.SHELL = '/bin/bash';
-
-client.dokdo = new Dokdo.Client(client, {
-  prefix: config.PREFIX,
-  aliases: ['dok', 'jsk'],
-  owners: [config.OWNER_ID],
-  secrets: [config.BOT_TOKEN]
-});
 
 client.reloadAllCommands = function () {
   try {
